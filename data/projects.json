@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Smart Body Posture Corrector Device",
+        "year": "January,2025,fifth semester",
+        "partner": "Assembly tools of Medical Electronics",
+        "role": "Staff Engineer",
+        "description": "Developing tools to help improve posture by detecting body position and providing alerts if the body in the wrong position.",
+        "image": "images/smarbody.png"
+    },
+    {
+        "title": "Face Recognition Door Lock",
+        "year": "June,2025,sixth semester",
+        "partner": "Assembly tools of Component Electronics",
+        "role": "Staff Engineer",
+        "description": "Develop an intelligent and secure automated door locking system that utilizes facial recognition technology to control access. Designed for residential or small office applications, the system enhances security by ensuring only authorized individuals can enter, while also providing alerts for unrecognized attempts..",
+        "image": "images/smartdoor.jpeg"
+    },
+	{
+        "title": "Robot Line Follower",
+        "year": "January,2025,fifth semester",
+        "partner": "Assembly tools of Component Electronics",
+        "role": "Staff Engineer",
+        "description": "The main goal of this robot is to move along a predetermined path, represented by a line. The robot uses sensors to see the line and actuators (motors) to move, while the microcontroller acts as the brain that processes information from the sensors and controls the motors to keep the robot on the correct track.",
+        "image": "images/linefollower.jpeg"
+    }
+]

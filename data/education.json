@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Semarang State Polytechnic",
+		"logo": "images/polines-logo.png",
+        "major": "Electronics Engineering Technology",
+        "year": "2022 - 2026",
+        "description": "GPA 3.59 of 4.0; Focuses on Control System, Electronics Circuit, and Programming Embedded Systems in Electronics Engineering Technology  "
+    },
+    {
+        "university": "State Vocational School 7 Semarang ",
+		"logo": "images/stemba2.png",
+        "major": "Mechatronics Engineering",
+        "year": "2015 - 2018",
+        "description": " Interdisciplinary field that combines Mechanical Engineering, Electronics, Computer Science, and Control Systems to design and optimize smart systems, robotics, and automated machines."
+    }
+]

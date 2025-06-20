@@ -1,0 +1,16 @@
+[
+    {
+        "company": "Kenai Kenari",
+		"logo":"images/kenaikenari.jfif",
+        "position": "Waiter",
+        "year": "2024 - Present",
+        "description": "Take accurate food and beverage orders using anotepad or POS system, Greet guests warmly and escort them to their tables."
+    },
+	{
+        "company": "PT Kereta Api Indonesia",
+		"logo":"images/kai.png",
+        "position": "Internship Student",
+        "year": "2021 - 2021",
+        "description": "Executing monthly preventive maintenance procedures on locomotives. Evaluating and certifying parts for operational suitability, Overhauling and replacing worn components in the air brake system.  "
+    }
+]

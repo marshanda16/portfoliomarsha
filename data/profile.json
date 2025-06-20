@@ -1,0 +1,29 @@
+{
+    "name": "Marshanda Aprilian Nisha",
+    "description": "Studied in Electronics Engineering Technology at Semarang State Polytechnic with a strong interest in electronics. Skilled in IDE programming, PCB trace design, and data analysis, with hands on experience gained through organizational activities. A fast learner with strong adaptability, eager to contribute to self-development and professional growth.",
+    "profileImage": "images/myself.jpeg",
+    "email": "marshandanisha@gmail.com",
+    "phone": "+62 (812) 250-61462",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "linkedin.com/in/MarshandaAN"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/marshanda16"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/13_MarshandaAN.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Proteus Design Suite", "icon": "fas fa-microchip", "level": 100},
+        {"name": "Microsoft Office", "icon": "fas fa-desktop", "level": 100},
+        {"name": "Arduino IDE", "icon": "fas fa-c", "level": 100},
+        {"name": "Matlab Simulink", "icon": "fab fa-js", "level": 100},
+        {"name": "Wiring Hardware Electronics", "icon": "fas fa-gear", "level": 100}
+    ]
+}
